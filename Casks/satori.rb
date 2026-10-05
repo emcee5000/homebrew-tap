@@ -1,6 +1,6 @@
 cask "satori" do
-  version "1.4.0"
-  sha256 "ba3a2f0ba733f7c11538819405f019b16e3de2dce79e3505391f70fc5d278ddb"
+  version "1.4.1"
+  sha256 "aa5b1e0eb03dd07939fb2246f293bedeed2ad7310ae7b01ac6e0f621414a6d0a"
 
   url "https://github.com/emcee5000/satori/releases/download/v#{version}/Satori.zip"
   name "Satori"
